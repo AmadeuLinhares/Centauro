@@ -17,13 +17,12 @@ export const Banner = styled.div`
     height: 249px;
   }
 `;
-export const PromotionContainer = styled(GlobalContainer)`
-  margin-top: -15%;
-`;
+export const PromotionContainer = styled(GlobalContainer)``;
 export const Promotions = styled.div`
   display: grid;
   row-gap: 32px;
   width: auto;
+  margin-top: -20%;
 `;
 export const Title = styled.div`
   display: flex;
